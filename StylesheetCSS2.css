@@ -1,0 +1,96 @@
+
+.offer{
+    padding: 3rem;
+    display: inline-block;
+    border: 3px green solid;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-top: 20%;
+    margin-left: 50px;
+    
+
+
+}
+
+.frm{
+    background-color: rgb(18, 197, 221);
+    display: inline-block;
+    border-style: dashed;
+    border-color: red;
+    margin-left: 970px;
+    padding: 30px;
+
+    
+}
+
+h1{
+    padding: 10px;
+    border-color: red;
+    border-style: outset;
+    border-radius: 30px;
+    color: blanchedalmond;
+    background-color: black;
+    display: inline-block;
+    
+}
+.Home{
+    padding: 10px;
+    border-color: red;
+    border-style: outset;
+    border-radius: 30px;
+    color: blanchedalmond;
+    background-color: black;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: -150px;
+      
+}
+
+.Contact{
+    padding: 10px;
+    border-color: red;
+    border-style: outset;
+    border-radius: 30px;
+    color: blanchedalmond;
+    background-color: black;
+    display: inline-block;
+    margin: 0px 0px 0px 500px;
+    
+
+}
+
+.menu{
+    padding: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-color: red;
+    border-style: outset;
+    border-radius: 10px;
+    color: blanchedalmond;
+    background-color: black;
+    display: inline-block;
+    margin: 10px 0px 0px 675px;
+}
+
+.menu-item{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 5px;
+    padding: 0.3;
+}
+
+.item{
+border: 3px red solid;
+border-radius: 10px;
+background-color: whitesmoke;
+color: red;
+margin: 0.5rem;
+padding: 1rem;
+text-align: center;
+width: 400px;
+
+}
+
